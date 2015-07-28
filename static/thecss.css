@@ -1,0 +1,59 @@
+#theHeader 
+{
+	position:absolute;
+	width:300px;
+	height: 85px;
+	background: #F9F2E7;
+	border-style:ridge;
+	border-width:6px;
+	border-color:#40C0CB;
+	left:38.6%;
+	top:25%;
+}
+
+#headerText
+{
+	position:absolute;
+	left:9%;
+	top:-5%;
+	font-size:80px;
+	text-align:center;
+	font-family:'Montserrat', sans-serif; font-weight: 700;
+}
+
+
+body 
+{
+	background-color: #00A8C6;
+}
+
+
+#searchArea
+{
+	right:34.5%;
+	top:40%;
+	border-style:ridge;
+	border-width: 5px; 
+	border-color:#AEE239;
+	width:450px;
+	height:150px;
+	background-color:#F9F2E7;
+	position:absolute;
+}
+
+input[type = "text"]
+{
+	font-size:20;
+	position:absolute;
+	left:26.5%;
+	top:34.3%;
+	height:40px;
+	width:200px;
+	font-size:20px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#AEE239;
+	outline:none;
+}
+
+
